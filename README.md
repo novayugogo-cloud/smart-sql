@@ -1,2 +1,2 @@
 # smart-sql
-out code will be public after accepted
+our code will be public after accepted
